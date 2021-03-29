@@ -16,7 +16,7 @@ b
 
 ## Description
 
-Use the hotkey "b{0-100}" to set the display brightness of your Mac.
+Use the hotkey `b{0-100}` to set the display brightness of your Mac.
 
 E.g.:
 - `b50` for 50% brightness,
