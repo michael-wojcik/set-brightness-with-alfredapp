@@ -4,7 +4,7 @@
 
 ## TL;DR
 
-Set brightness from 0-100:
+Set brightness from `0-100`:
 ```
 b{INTEGER}
 ```
